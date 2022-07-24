@@ -15,5 +15,5 @@ The total abuse to press (Journalist and Media workers) is reported or exposed c
 
 #
 
-![alt text](https://github.com/leticiaamorimd/press-freedom/blob/master/src/most-deadly-countries-for-journalists-in-2020-and-2021.png)
+![alt text](https://github.com/leticiaamorimd/press-freedom/blob/master/src/the-deadliest-countries-for-journalists.png)
 
