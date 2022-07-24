@@ -11,11 +11,9 @@ The total abuse to press (Journalist and Media workers) is reported or exposed c
 
 #
 
-![alt text](https://github.com/leticiaamorimd/analysing-press-freedom/blob/main/score-of-press-freedom-over-the-years.png)
+![alt text](https://github.com/leticiaamorimd/press-freedom/blob/master/src/press-freedom-index-score.png)
 
 #
 
-![alt text](/Users/leticiaamorim/Desktop/CFG/press-freedom/press-freedom/src/src/most-letal.png)
-
-
+![alt text](https://github.com/leticiaamorimd/press-freedom/blob/master/src/most-deadly-countries-for-journalists-in-2020-and-2021.png)
 
