@@ -1,4 +1,4 @@
-# Analysing Press Freedom
+# Analysing Press Freedom and Abuses
 
 This project analyses the state of journalism in 180 countries and territories, highlighting the abuses against the professionals who risk their lives in prol of the truth.
 
